@@ -1,0 +1,6 @@
+inqoo/SomeOtherException.java
+ inqoo.SomeOtherException
+inqoo/ExceptionExample.java
+ inqoo.ExceptionExample
+inqoo/SomeException.java
+ inqoo.SomeException
