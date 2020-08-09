@@ -11,3 +11,5 @@
 4. Napisz program, który pobierze od użytkownika Stringa zawierającego 0, 1 lub 2 liczby (np. "2,3") a następnie zwróci ich sumę. W przypadku podania pustego Stringa program powinien zwrócić `0`.
 5. Stary dobry FizzBuzz. Napisz program, który wypisze 100 liczb. Jeśli liczba jest podzielna przez 3 zamiast liczby program wypisze `Fizz`, jeśli liczba jest podzielna przez 5 program wypisze `Buzz`. Jeśli liczba jest podzielna przez 3 i przez 5 program wypisze `FizzBuzz`.
 6. Napisz własną implementację kolejki. Powinna ona umożliwiać dodawanie elementu na koniec kolejki (`add`), pobieranie pierwszego elementu bez usuwania go z kolejki (`peek`) oraz pobieranie pierwszego elementu z jednoczesnym usunięciem go z kolejki (`poll`).
+
+
