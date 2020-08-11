@@ -4,7 +4,7 @@ class TimeEntry {
 
     private final int value;
 
-    public TimeEntry(int seconds, TimeWeight timeWeight) {
+    TimeEntry(int seconds, TimeWeight timeWeight) {
         value = seconds / timeWeight.getValue();
     }
 

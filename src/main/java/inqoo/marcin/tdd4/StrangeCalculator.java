@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 class StrangeCalculator {
 
-    public int add(String values) {
+    int add(String values) {
         if (values.isBlank()) {
             return 0;
         }

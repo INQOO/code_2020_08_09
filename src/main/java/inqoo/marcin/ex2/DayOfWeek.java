@@ -12,15 +12,15 @@ class DayOfWeek {
         this.workingHours = workingHours;
     }
 
-    public String getName() {
+    String getName() {
         return name;
     }
 
-    public boolean isWorkingDay() {
+    boolean isWorkingDay() {
         return isWorkingDay;
     }
 
-    public Integer getWorkingHours() {
+    Integer getWorkingHours() {
         return workingHours;
     }
 
