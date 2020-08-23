@@ -15,11 +15,11 @@ class MyQueue {
         return queue.size();
     }
 
-    public int peek() {
+    int peek() {
         return queue.get(0);
     }
 
-    public int poll() {
+    int poll() {
         Integer value = queue.get(0);
         queue.remove(0);
         return value;
